@@ -41,7 +41,6 @@
 				break;
                         default:
                                 printf("Please enter correct option\n");
-                                break;
                 }
 		if(c)
                 printf("Result: %f\n", result);
